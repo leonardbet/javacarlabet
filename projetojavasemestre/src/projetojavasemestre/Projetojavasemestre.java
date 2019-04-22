@@ -4,6 +4,7 @@
 package projetojavasemestre;
 
 
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -12,7 +13,6 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author hghjgjh
  */
 public class Projetojavasemestre extends Application {
     
